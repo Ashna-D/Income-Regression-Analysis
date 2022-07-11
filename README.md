@@ -1,3 +1,3 @@
 # Income-Regression-Analysis
-A univariate and multivariate regression analysis on the different factors affecting salary 
+A multivariate regression analysis on the different factors affecting salary 
 For this analysis, a regression was conducted using multiple variables within the “Placements” dataset obtained from Kaggle. The aim was to determine whether there was a statistically significant correlation between the Y variable i.e., salary, and the X variables, namely gender, work experience, MBA scores, degree scores and SSC board scores. The salary variable represents salaries offered through placements. Salaries with the value 0 indicate that the individual in question was not placed.
